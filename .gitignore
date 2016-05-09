@@ -1,0 +1,7 @@
+target/
+*.iml
+auditlog/
+.idea/
+.DS_Store
+*.sh
+dump.rdb
